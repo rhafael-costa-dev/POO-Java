@@ -39,7 +39,7 @@ public class Teste {
         FileReader fileReader = new FileReader(file);
         BufferedReader bufferedReader = new BufferedReader(fileReader);
 
-        String linha = "";
+        String linha;
         while ( (linha = bufferedReader.readLine()) != null) {
             System.out.println(linha);
         }
