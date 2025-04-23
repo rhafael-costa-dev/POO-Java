@@ -1,4 +1,4 @@
-import java.io.StreamTokenizer;
+package pessoa;
 
 public class Professor extends Pessoa {
     private Double salario;

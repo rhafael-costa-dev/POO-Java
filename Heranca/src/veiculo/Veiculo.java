@@ -1,3 +1,5 @@
+package veiculo;
+
 public class Veiculo {
     private String marca;
     private String modelo;
@@ -37,7 +39,7 @@ public class Veiculo {
     }
 
     public void exibirInformacoes() {
-        System.out.println("Método Classe Veiculo");
+        System.out.println("Método Classe veiculo.Veiculo");
         System.out.println(String.format("Marca: %s\nModelo: %s\nAno: %d", marca, modelo, ano));
     }
 }

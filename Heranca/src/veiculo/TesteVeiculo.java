@@ -1,3 +1,5 @@
+package veiculo;
+
 public class TesteVeiculo {
 
     public static void main(String[] args) {
