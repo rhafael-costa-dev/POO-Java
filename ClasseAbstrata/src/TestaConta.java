@@ -1,3 +1,7 @@
+import conta.Conta;
+import conta.ContaCorrente;
+import conta.ContaPoupanca;
+
 public class TestaConta {
 
     public static void main(String[] args) {
